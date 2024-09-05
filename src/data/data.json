@@ -1,0 +1,46 @@
+[
+  {
+    "id": 4,
+    "name": "Vase Facade",
+    "price": 20,
+    "image": "/images/decoration.png",
+    "description": "Beautifull and stylish Vase Facade for Home Decoration"
+  },
+    {
+      "id": 2,
+      "name": "Rain coat for boy",
+      "price": 40,
+      "image": "/images/kj5.jpg",
+      "description": "Comfortable and stylish Rain coat for Boy"
+    },
+    {
+      "id": 3,
+      "name": "Floral Bomber Jacket",
+      "price": 20,
+      "image": "/images/kj7.webp",
+      "description": "Comfortable and stylish Foral Bomber jacket  "
+    },
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "price": 20,
+      "image": "/images/tshirt.jpg",
+      "description": "Comfortable and stylish t-shirt"
+    },
+   
+    {
+      "id": 5,
+      "name": "Jeans",
+      "price": 40,
+      "image": "/images/jeans.jpg",
+      "description": "Slim and comfortable jeans"
+    },
+    {
+      "id": 6,
+      "name": "Scarf",
+      "price": 60,
+      "image": "/images/scarf1.jpg",
+      "description": "Handmade and stylish scarf"
+    }
+  ]
+  
